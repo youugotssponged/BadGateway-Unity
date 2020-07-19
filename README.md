@@ -8,5 +8,5 @@ This game consists of 3 levels in which increases in difficulty via the amount o
 
 ![Home Screen](./images/bg1.png)
 ![Gameplay 1](./images/bg2.png)
-![Gameplay 2](./images/bg3.png)
+![Gameplay 2](./images/bg_3.png)
 ![Gameplay 3](./images/bg4.png)
